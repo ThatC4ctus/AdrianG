@@ -7,8 +7,7 @@
 # Current projects:
 # FESS Flywheel project, a vertical-axis flywheel energy storage system, included skills: Control Systems, with hall-effect sensors for controlling RPM, structural design making sure the flywheel is stable and power electronics.
 
-# 10" FPV drone, a quad-copter styled drone with front facing camera, included skill: Control systems, Power electronic control, structural design to maximize
-# minimal weight with strength
+# 10" FPV drone, a quad-copter styled drone with front facing camera, included skill: Control systems, Power electronic control, structural design to maximize minimal weight with strength
 
 # Skills and tools used:
 # Game development on Unity and Roblox. Including C# and Lua coding.
